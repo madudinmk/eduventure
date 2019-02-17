@@ -1,0 +1,16 @@
+.container {
+			margin: 35px 40px;
+			text-align: center;
+			background-color: #92a8d1;
+			padding: 30px 35px;
+		}
+		.btn {
+			margin-top: 10px;
+			padding: 10px;
+			text-decoration: none;
+			color: #ffffff;
+			background-color: #034f84;
+			cursor: pointer;
+			font-family: arial;
+			font-size: 14px;
+		}

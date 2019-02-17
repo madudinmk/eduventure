@@ -1,0 +1,46 @@
+.container {
+ 			margin: 35px;
+ 			font-family: monospace;
+ 			text-align: left;
+ 		}
+		div.header {
+			padding: 10px 10px;
+			width: 100%;
+			background-color: #DC143C;
+		}
+		.title {
+			font-size: 18px;
+			font-weight: bold;
+		}
+		div span {
+			font-size: 16px;
+			color: white;
+		}
+		table, th, td{
+			border-bottom: 1px solid black;
+			border-collapse: collapse;
+		}
+		th, td {
+			font-size: 14px;
+			padding: 10px;
+			text-align: center;
+		}
+		p span.info {
+			font-weight: bold;
+			font-family: Arial;
+			color: black;
+		}
+		#inp-out-tbl {
+			margin: 10px;
+			float: right;
+			background-color: grey;
+			border: 1px solid grey;
+			border-radius: none;
+			cursor: pointer;
+			color: white;
+			width: 13vw;
+			height: 7vh;
+		}
+		#inp-out-tbl:hover {
+			background-color: red;
+		}

@@ -1,0 +1,27 @@
+.container {
+ 			margin: 35px;
+ 			font-family: monospace;
+ 			text-align: left;
+ 		}
+		.header {
+			padding: 10px 10px;
+			width: 100%;
+			background-color: #DC143C;
+		}
+		.title {
+			font-size: 18px;
+			font-weight: bold;
+		}
+		div span {
+			font-size: 16px;
+			color: white;
+		}
+		table, th, td{
+			border-bottom: 1px solid black;
+			border-collapse: collapse;
+		}
+		th, td {
+			font-size: 14px;
+			padding: 10px;
+			text-align: center;
+		}
